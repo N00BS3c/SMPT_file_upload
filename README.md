@@ -1,3 +1,5 @@
+Why waste time with telnet or nc? 
+
 Run the script with the following command:
 
 python3 send_email.py \
