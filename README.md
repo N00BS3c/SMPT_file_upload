@@ -1,4 +1,4 @@
-Why waste time with telnet or nc? 
+Send email to user (client-side exploit)
 Remove username and password flags if you don't have any.
 
 Run the script with the following command:
