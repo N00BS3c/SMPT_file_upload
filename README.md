@@ -1,4 +1,5 @@
 Why waste time with telnet or nc? 
+Remove username and password flags if you don't have any.
 
 Run the script with the following command:
 
